@@ -1,0 +1,11 @@
+file,rows
+employees.csv,200
+departments.csv,10
+customers.csv,150
+products.csv,120
+orders.csv,400
+sales.csv,1000
+project_assignments.csv,250
+promotions.csv,120
+salary_history.csv,200
+user_logins.csv,992
